@@ -9,4 +9,4 @@ Labor market and training-pipeline data relevant to staffing CEA operations.
 - workforce-costs/ - workforce cost estimates feeding the cost-benefit model
 
 ## Status
-Targeted for the v2 data release (~May 2026), building on relationships with regional community colleges (e.g. Santa Fe Community College).
+Targeted for the v1 data release (~Aug 2026), building on relationships with regional community colleges (e.g. Santa Fe Community College).
