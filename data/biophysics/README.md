@@ -1,6 +1,6 @@
 # Biophysics Data
 
-Environmental and physical variables relevant to siting and operating CEA systems (greenhouses, quonset houses, vertical farms).
+Environmental and physical variables relevant to siting and operating CEA systems (greenhouses, vertical farms).
 
 ## Subfolders
 - weather/ - temperature, precipitation, climate data by county
