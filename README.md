@@ -1,6 +1,6 @@
 # Tri-CEA Public Data Repository
 
-A public dataset supporting Controlled Environment Agriculture (CEA) research, modeling, and decision-support across New Mexico's state and tribal communities.
+A public dataset supporting Controlled Environment Agriculture (CEA) research, modeling, and decision-support across three states (New Mexico, Wyoming, and South Dakota) and tribal communities.
 
 ## About This Project
 
