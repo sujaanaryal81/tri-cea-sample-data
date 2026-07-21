@@ -15,7 +15,7 @@ This data carries no personally identifiable information and is not subject to I
 ## Closed / Protected Data (NOT in this repository)
 
 - Raw survey data from the producer, consumer, and community-organization surveys, collected under IRB oversight.
-- Navajo Nation survey data follows data sovereignty principles: raw data is stored by or returned to the Navajo research office, password-protected on secured computers per IRB terms, and destroyed or returned to the community at project end. Only de-identified, aggregated results may be shared in future publications.
+- Tribal communities survey data follows data sovereignty principles: raw data is stored by or returned to their research office, password-protected on secured computers per IRB terms, and destroyed or returned to the community at project end. Only de-identified, aggregated results may be shared in future publications.
 - Identifiable farmer survey data, handled under separate CITI-trained protocols.
 
 ## Why the Distinction Matters
