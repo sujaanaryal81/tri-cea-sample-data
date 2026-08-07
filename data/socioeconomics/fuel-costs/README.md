@@ -1,3 +1,3 @@
 # Fuel Costs
 
-Fuel price data by county, relevant to transportation and heating cost estimates for CEA operations.
+Weekly U.S. retail gasoline price data (all grades, all formulations, dollars per gallon), relevant to transportation and heating cost estimates for CEA operations.
