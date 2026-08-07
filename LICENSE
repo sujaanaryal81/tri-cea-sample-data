@@ -1,17 +1,18 @@
-License
-
+Tri-CEA Public Data Repository
 Copyright (c) 2026 Tri-CEA Project
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Data in this repository is licensed under Creative Commons Attribution 4.0
+International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+You may share and adapt the data for any purpose, with credit to the
+Tri-CEA Project. Any code is provided under the MIT License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Please also note:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+- Indigenous data sovereignty is respected. Data from or about tribal
+  communities remains under their governance and must not be used to harm
+  or misrepresent them.
+- Social and survey data are shared only in aggregate. Do not attempt to
+  identify individuals.
+- Data is shared following FAIR principles. Keep metadata with the data
+  when reusing it.
+- Please cite the Tri-CEA Project when using this data.
