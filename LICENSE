@@ -1,18 +1,36 @@
-Tri-CEA Public Data Repository
-Copyright (c) 2026 Tri-CEA Project
+Tri-CEA Public Data Repository — License and Data Use Terms
+Copyright (c) 2026 Tri-CEA Project (https://tricea.unm.edu)
 
-Data in this repository is licensed under Creative Commons Attribution 4.0
-International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
-You may share and adapt the data for any purpose, with credit to the
-Tri-CEA Project. Any code is provided under the MIT License.
+DATA LICENSE
 
-Please also note:
+The data and documentation in this repository are licensed under the Creative
+Commons Attribution 4.0 International License (CC BY 4.0). You are free to share
+and adapt the material for any purpose, as long as you give appropriate credit
+to the Tri-CEA Project, link to the license, and note any changes.
+Full license: https://creativecommons.org/licenses/by/4.0/
 
-- Indigenous data sovereignty is respected. Data from or about tribal
-  communities remains under their governance and must not be used to harm
-  or misrepresent them.
-- Social and survey data are shared only in aggregate. Do not attempt to
-  identify individuals.
-- Data is shared following FAIR principles. Keep metadata with the data
-  when reusing it.
-- Please cite the Tri-CEA Project when using this data.
+Any software or code in this repository is provided under the MIT License.
+
+DATA USE TERMS
+
+This repository supports the Tri-CEA project, "Harnessing Controlled Environment
+Agriculture to Secure Sustainability and Economic Growth," an NSF EPSCoR-funded
+collaboration across New Mexico, Wyoming, and South Dakota and their tribal
+communities. Consistent with the project's Data Management Plan, use of this
+data is subject to the following:
+
+1. Indigenous Data Sovereignty. Data from or about tribal communities remains
+   under the governance of those communities. Users must respect tribal nations'
+   rights to control how data about their people, lands, and resources is used,
+   and must not use it in ways that harm or misrepresent them.
+
+2. Human-Subjects Data. Social and survey data are shared only in aggregate to
+   protect privacy. Do not attempt to re-identify individuals or reveal personal,
+   demographic, or disability information about participants.
+
+3. FAIR Principles. Data is shared following FAIR (Findable, Accessible,
+   Interoperable, Reusable) best practices. Please preserve the associated
+   metadata when reusing or redistributing data.
+
+4. Attribution. Please cite the Tri-CEA Project (https://tricea.unm.edu) when
+   using this data in publications, presentations, or derivative works.
