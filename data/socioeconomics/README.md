@@ -3,12 +3,14 @@
 County-level cost and economic variables that feed into CEA cost-benefit and systems dynamics modeling.
 
 ## Subfolders
-- utilities/ - electricity and gas rate data by county
-- housing-rental/ - rental and land cost data by county
-- fuel-costs/ - fuel price data by county
-- taxes/ - local and state tax data by county
-- labor-wages/ - working cash requirements and wage data by county
-- cost-benefit-tools/ - budget and cost-benefit calculators for CEA structures
+
+- utilities/ — Electricity and water rate data by county
+- housing-rental/ — Rental and land cost data by county
+- fuel-costs/ — Fuel price data
+- taxes/ — Local and state tax data by county
+- labor-wages/ — Occupational wage data by county and occupation
+- transportation/ — Freight transportation and commodity flow data
 
 ## Status
-Baseline granularity is county-level. Finer granularity via ACS or Census data is a future direction. Cross-sectional (single year) data is the current approach; panel data across years may follow.
+
+Baseline granularity is county-level. Finer granularity through ACS or Census data is a future direction. The current approach uses cross-sectional (single-year) data; panel data across multiple years may follow.
